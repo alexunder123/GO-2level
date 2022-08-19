@@ -58,5 +58,4 @@ func main() {
 	op = "/"
 	res = calc(a, b, op)
 	fmt.Println("Результат операции: ", res)
-
 }

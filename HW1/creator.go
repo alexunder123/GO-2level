@@ -41,5 +41,4 @@ func main() {
 	for i < n {
 		createFiles(&i, &n)
 	}
-
 }
