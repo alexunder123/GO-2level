@@ -1,3 +1,6 @@
 package test_module
 
-import _ "github.com/valyala/fasthttp"
+import (
+	_ "github.com/gorilla/websocket"
+	_ "github.com/valyala/fasthttp"
+)
